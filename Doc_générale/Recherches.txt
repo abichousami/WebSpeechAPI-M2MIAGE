@@ -1,0 +1,23 @@
+Exemple d'implémentation par l'école supinfo:
+
+https://www.supinfo.com/articles/single/370-webkit-web-speech-api-google#idm140526243270784
+
+Tutoriel permettant d'inclure un système de reconnaissance vocale dans son application:
+
+https://www.grafikart.fr/tutoriels/javascript/web-speech-api-424
+
+Implémentation de l'API par google (nous permettant de faire des comparaisons avec les autres navigateurs):
+
+https://www.google.com/intl/fr/chrome/demos/speech.html
+
+Introduction à l'API WebSpeech:
+
+https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API
+
+Documentation sur l'interface controleur de WebSpeech API (SpeechRecognition):
+
+https://developer.mozilla.org/fr/docs/Web/API/SpeechRecognition
+
+Une autre API de google basée sur le deep learning et plus performante (google cloud speech) :
+
+https://cloud.google.com/speech/?hl=fr
