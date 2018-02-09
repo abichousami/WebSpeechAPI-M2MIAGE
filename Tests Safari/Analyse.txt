@@ -1,1 +1,1 @@
-blabla
+L'API Web Speech n'est pas implémentée pour le navigateur Safari.
