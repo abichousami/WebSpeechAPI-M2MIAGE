@@ -1,1 +1,8 @@
-blabla
+L'API Web Speech fonctionne également sous Firefox, le supporte les deux aspects de  l'API (reconnaissance et synthyèse vocale) mais certaines fonctionnalités sont moins fonctionelles.
+
+Nous avons réalisé quelques tests sous Firefox :
+  -Phrase matcher ne fonctionne pas (problème de permissions)
+  -Speack easy synthetis fonctionne mais moins bien que sous Chrome (présence de micros-coupure lors de la synthèse)
+  - Speech color changer ne fonctionne pas (même raison que pour Phrase matcher)
+
+Bien que la reconnaissance vocale soit implémentée, elle n’est, aujourd’hui, pas utilisable dans Firefox pour ordinateur et Android car l’interface utilisateur permettant de gérer les permissions n’a pas encore été implémentée.
