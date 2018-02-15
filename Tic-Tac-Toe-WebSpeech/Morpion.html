@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Le jeu du morpion</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="Morpion.css" />
+</head>
+
+
+<h1>Le jeu du morpion</h1>
+
+
+<div id="Jeu">
+    <div>
+        <button id="btn1" style="background-color: brown "></button>
+        <button id="btn2" style="background-color: deeppink" ></button>
+        <button id="btn3" style="background-color:darkblue"></button>
+    </div>
+    <div>
+        <button id="btn4" style="background-color:darkgreen"></button>
+        <button id="btn5" style="background-color: aliceblue"></button>
+        <button id="btn6" style="background-color: darkviolet"></button>
+    </div>
+    <div>
+        <button id="btn7" style="background-color:darkgrey"></button>
+        <button id="btn8" style="background-color: yellow"></button>
+        <button id="btn9" style="background-color: red"></button>
+    </div>
+    <div id="StatutJeu">
+
+
+    </div>
+    <form>
+        <input type="hidden" class="txt" >
+
+        <div>
+            <label for="rate">Rate</label><input type="range" min="0.5" max="2" value="1" step="0.1" id="rate">
+            <div class="rate-value">1</div>
+            <div class="clearfix"></div>
+        </div>
+        <div>
+            <label for="pitch">Pitch</label><input type="range" min="0" max="2" value="1" step="0.1" id="pitch">
+            <div class="pitch-value">1</div>
+            <div class="clearfix"></div>
+        </div>
+        <select>
+
+        </select>
+
+    </form>
+</div>
+
+<div id="Consigne">
+    <p class="hints"></p>
+
+    <br>Sortie :</br><p class="output"> <em>...diagnostic messages</em></p>
+
+</div>
+
+<script src="Morpion.js" type="text/javascript"></script>
+</body>
+</html>
+
+
+
+
