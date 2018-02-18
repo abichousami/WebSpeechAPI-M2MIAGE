@@ -1,1 +1,3 @@
 L'API Web Speech n'est pas implémentée pour le navigateur Safari.
+Cela est probablement du aux enjeux commerciaux qui permet de promouvoir les "gadgets" des nouveaux produits apple.
+Par exemeple le système de reconnaissance vocal SIRI, était un argument de vente pour la sortie de l'iphone 4
