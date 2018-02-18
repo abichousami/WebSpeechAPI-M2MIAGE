@@ -1,0 +1,4 @@
+Cette appli web nous a permit de faire nos premiers test lors de l'utilisation de l'API WebSpeech.
+Dans un premier temps, pour que l'utilisation de l'appli soit agréable à l'utilisateur, nous avons choisit de
+faire des tests en js afin de controller les champs du formulaire en toute transparence, puis une fois tout les champs du formulaires valide, nous avons implémenter l'interface SpeechRecognition de l'API afin de faire un test à l'utilisateur.
+Il doit lire la phrase qui est affiché en bas de la page, si le résultat enregistrer match avec le résultat attendu, alors le bouton "valider" apparait afin que l'utilisateur puisse enregistrer les données en base de données.
