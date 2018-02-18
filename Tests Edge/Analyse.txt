@@ -1,1 +1,3 @@
-blabla
+Edge est un navigateur compliqué, tout d'abord car il est difficile de gérer javascript avec, dans le sens ou lorsque les développeur développe en js, ils sont obligés de faire des conditions en fonctions du navigateur. (if (edge) else ) car le js est gérer très différemment et avec beaucoup de difficultés sur Edge.
+
+Il faut savoir que dans la doc de l'api, Edge est considéré comme un navigateur supporté, mais en pratique, il n'y a que l'interface de synthèse vocal (SpeechSynthesis) qui fonctionne et encore cela est particulièrement compliqué à gerer (script js non interprété par la navigateur, problème de droit d'accès)
