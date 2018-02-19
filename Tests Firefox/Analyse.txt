@@ -6,3 +6,8 @@ Nous avons réalisé quelques tests sous Firefox :
   - Speech color changer ne fonctionne pas (même raison que pour Phrase matcher)
 
 Bien que la reconnaissance vocale soit implémentée, elle n’est, aujourd’hui, pas utilisable dans Firefox pour ordinateur et Android car l’interface utilisateur permettant de gérer les permissions n’a pas encore été implémentée.
+
+Source : https://tech.mozfr.org/post/2016/01/23/Firefox-et-l-API-Web-Speech
+
+
+Dans un deuxième temps, nous avons réussi à faire fonctionner la fonction recognition de Web Speech API en lancant nos applicaions en locale, ce qui a contourner le problème d'accès au microphone de l'ordinateur.
